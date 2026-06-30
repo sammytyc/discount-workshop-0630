@@ -4,7 +4,7 @@ function calculateDiscount(price, memberType) {
   }
 
   const discounts = {
-    gold: 0.8,
+    gold: 0.85,
     silver: 0.9,
   };
 
